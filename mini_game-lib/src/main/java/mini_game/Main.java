@@ -18,6 +18,8 @@ public class Main {
 		GameManager.init();
 		
 		Game.start();
+		
+		//test
 
 	}
 
